@@ -1,0 +1,1 @@
+# escaner_codigo_app
